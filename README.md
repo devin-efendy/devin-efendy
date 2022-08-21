@@ -4,13 +4,13 @@
 
 - 🎓 Computer Science Honors (Co-op) Student at the University of Manitoba, graduating in **December 2022**
 
-- 👔 Currently working at **Priceline** as **Software Developer Co-op**
+- 👔 Currently working at **Priceline** as **Software Developer Co-op**. Previously at Ubisoft and Bold Commerce.
 
 - ❤️ Interests: full-stack web development, distributed systems, DevOps
 
 ---
 
-### Technologies that I have used
+### Technologies I have used
 
 ### Languages
 <div>
