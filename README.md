@@ -1,5 +1,7 @@
 ### Hi 👋 , I’m @devin-efendy
 
+**I'm currently looking for a Software Developer position!**
+
 ### About me
 
 - 🎓 Computer Science Honors (Co-op) Student at the University of Manitoba, graduating in **December 2022**
