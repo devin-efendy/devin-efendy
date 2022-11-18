@@ -8,7 +8,7 @@
 
 - 👔 Currently working at **Priceline** as **Software Developer Co-op**. Previously at Ubisoft and Bold Commerce.
 
-- ❤️ Interests: full-stack web development, distributed systems, DevOps
+- ❤️ Interests: full-stack web development and distributed systems
 
 ---
 
