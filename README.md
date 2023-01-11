@@ -1,4 +1,4 @@
-### Hi 👋 , I’m @devin-efendy
+### Hi 👋 , my name is Devin Efendy
 
 **I'm currently looking for a Software Developer position!**
 
@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science Honors (Co-op) Student at the University of Manitoba, graduating in **December 2022**
 
-- 👔 Currently working at **Priceline** as **Software Developer Co-op**. Previously at Ubisoft and Bold Commerce.
+- 👔 I previously worked as a **Software Developer Co-op** at Pirceline, Ubisoft, and Bold Commerce.
 
 - ❤️ Interests: full-stack web development and distributed systems
 
